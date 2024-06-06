@@ -1,7 +1,5 @@
 # Welcome to my GitHub Profile 👋
 
-![Welcome GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBhOXc4dTk4ajJoc3c1eTNva3R2bnUyZnRxbmZnZDZtN2ljdnh5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dg4TxjYikCpiGd7tYs/giphy.gif)
-
 ## About Me
 
 - 🔭 Currently working as an Artificial Intelligence Research Intern at the University of Vienna.
