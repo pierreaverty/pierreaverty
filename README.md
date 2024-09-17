@@ -28,6 +28,7 @@ I've had the pleasure of exploring these amazing countries:
 - 🇷🇴 Romania
 - 🇳🇱 Netherlands
 - 🇧🇪 Belgium
+- 🇨🇿 Czech Republic
 
 ---
 
