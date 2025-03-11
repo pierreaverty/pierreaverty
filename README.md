@@ -61,10 +61,20 @@ I'm a Master's graduate passionate about AI research and currently applying to P
 </div>
 
 ## 🎓 Education
-- **Master's in Data, Knowledge, and Intelligence** - Université Paris Cité, France (Ranked 1st in cohort)
-- **Exchange Program in Data Science** - Wien Universität, Austria
-- **Bachelor of Computer Science** - Université Paris Cité, France
-- **DUT in Multimedia and Internet Professions** - Université Gustave Eiffel, France
+
+- **Master's in Data, Knowledge, and Intelligence** (2022-2024)<br>
+  Université Paris Cité, France<br>
+  *Ranked 1st in cohort (Major de Promotion) | Distinction (Mention Très Bien)*
+
+- **Exchange Program in Data Science** (2023-2024)<br>
+  Wien Universität, Austria<br>
+  *Circle-U Alliance Program*
+
+- **Bachelor of Computer Science** (2021-2022)<br>
+  Université Paris Cité, France
+
+- **DUT in Multimedia and Internet Professions** (2019-2021)<br>
+  Université Gustave Eiffel, France
 
 ## 🌍 Languages
 
@@ -106,8 +116,9 @@ Here are some of the cool projects I've worked on:
 ## 💡 About Me
 
 - **Research:** I recently completed my Master's thesis on object detection using deep learning approaches with on-edge computing and am now seeking PhD opportunities focused on multi-agent reinforcement learning
-- **Interests:** Mathematics, understanding learning and intelligence, robotics, teaching
-- **Hobbies:** Traveling, reading, classical music, writing, psychology
+- **Interests:** Mathematics, understanding learning and intelligence, robotics, teaching, physics, paleontology
+- **Current Focus:** Strengthening mathematical foundations 
+- **Hobbies:** Traveling, reading, classical music, writing, psychology, art
 
 ## 💬 Favorite Quote
 
