@@ -67,7 +67,7 @@ I'm a Master's graduate passionate about AI research and currently applying to P
   *Ranked 1st in cohort (Major de Promotion) | Distinction (Mention Très Bien)*
 
 - **Exchange Program in Data Science** (2023-2024)<br>
-  Wien Universität, Austria<br>
+  Universität Wien, Austria<br>
   *Circle-U Alliance Program*
 
 - **Bachelor of Computer Science** (2021-2022)<br>
