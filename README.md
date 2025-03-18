@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Pierre Averty
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=MSc+Graduate;Machine+Learning+PhD+Applicant;Reinforcement+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=MSc+Graduate;Machine+Learning+PhD+Applicant;Reinforcement+Learning;Multi-agent+systems;Lifelong+learning" alt="Typing SVG" />
 </div>
 
 I'm a Master's graduate in Data Science passionate about machine learning, actively seeking PhD opportunities. With a background in computer science from Université Paris Cité, I aspire to contribute to research developing adaptive, scalable systems where distributed agents can collaboratively learn and solve complex problems.
