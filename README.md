@@ -1,27 +1,27 @@
 # 👋 Hello, I'm Pierre Averty
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=MSc+Graduate;AI+Researcher;Reinforcement+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=435&lines=MSc+Graduate;Machine+Learning+PhD+Applicant;Reinforcement+Learning+Specialist" alt="Typing SVG" />
 </div>
 
-I'm a Master's graduate passionate about AI research and currently applying to PhD programs. With a background in computer science and data science from Université Paris Cité, I'm eager to contribute to innovative research in intelligent systems.
+I'm a Master's graduate in Data Science passionate about machine learning, actively seeking PhD opportunities. With a background in computer science from Université Paris Cité, I aspire to contribute to research developing adaptive, scalable systems where distributed agents can collaboratively learn and solve complex problems.
 
 ## 🧠 Research Interests
 
 <div align="center">
   
-  ![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-6A5ACD?style=for-the-badge)
   ![Reinforcement Learning](https://img.shields.io/badge/-Reinforcement%20Learning-BF40BF?style=for-the-badge)
   ![Non-Stationary Environments](https://img.shields.io/badge/-Non--Stationary%20Environments-4B0082?style=for-the-badge)
-  ![Decentralized Learning](https://img.shields.io/badge/-Decentralized%20Learning-8A2BE2?style=for-the-badge)
   ![Lifelong Learning](https://img.shields.io/badge/-Lifelong%20Learning-9370DB?style=for-the-badge)
-  ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-7B68EE?style=for-the-badge)
+  ![Multi-Agent Systems](https://img.shields.io/badge/-Multi--Agent%20Systems-6A5ACD?style=for-the-badge)
+  ![On-Edge Computing](https://img.shields.io/badge/-On--Edge%20Computing-5D3FD3?style=for-the-badge)
   ![Transfer Learning](https://img.shields.io/badge/-Transfer%20Learning-483D8B?style=for-the-badge)
-  ![Computer Vision](https://img.shields.io/badge/-On--Edge%20Computing-5D3FD3?style=for-the-badge)
+  ![Decentralized Learning](https://img.shields.io/badge/-Decentralized%20Learning-8A2BE2?style=for-the-badge)
+  ![Federated Learning](https://img.shields.io/badge/-Federated%20Learning-7B68EE?style=for-the-badge)
   
 </div>
 
-> My research focuses on the intersection of multi-agent systems and reinforcement learning, particularly in non-stationary environments. I'm interested in how distributed AI systems can collaboratively adapt, learn, and transfer knowledge without centralized control.
+> My research focuses on the intersection of multi-agent systems, reinforcement learning, and lifelong learning, particularly in non-stationary environments. I'm interested in how distributed AI systems can collaboratively adapt, learn continuously, and transfer knowledge without centralized control.
 
 ## 🛠️ Tech Stack 
 
@@ -76,6 +76,17 @@ I'm a Master's graduate passionate about AI research and currently applying to P
 - **DUT in Multimedia and Internet Professions** (2019-2021)<br>
   Université Gustave Eiffel, France
 
+## 🧪 Research Experience
+
+- **Master's Thesis: One-Shot Object Recognition techniques for Digital Twins** (Feb 2024 - Jul 2024)<br>
+  Created a flexible ResNet50Encoder-based framework for one-shot learning of new objects without retraining
+
+- **Gradient Bandit Algorithms for Non-Stationary Environments** (2023-2024)<br>
+  Investigated exploration-exploitation trade-offs under shifting reward distributions
+
+- **Bachelor Thesis: Prey-Predator Multi-Agent Simulation** (Jan - May 2022)<br>
+  Developed Unity-based ecosystem with emergent agent behaviors
+
 ## 🌍 Languages
 
 - 🇫🇷 French: Native
@@ -115,7 +126,8 @@ Here are some of the cool projects I've worked on:
 
 ## 💡 About Me
 
-- **Research:** I recently completed my Master's thesis on object detection using deep learning approaches with on-edge computing and am now seeking PhD opportunities focused on multi-agent reinforcement learning
+- **Current Goal:** Seeking PhD opportunities in machine learning focused on multi-agent systems and reinforcement learning
+- **Research Interests:** Developing frameworks for adaptive collective intelligence that can enhance applications in disaster response, swarm robotics, and privacy-preserving collaborative systems
 - **Interests:** Mathematics, understanding learning and intelligence, robotics, teaching, physics, paleontology
 - **Current Focus:** Strengthening mathematical foundations 
 - **Hobbies:** Traveling, reading, classical music, writing, psychology, art
